@@ -7,7 +7,7 @@ theme = "LoveIt"
 themesDir = "./themes"
 
 # website title
-title = "LoveIt"
+title = "The Food Ryter"
 
 # whether to use robots.txt
 enableRobotsTXT = true
@@ -60,14 +60,14 @@ enableEmoji = true
         url = "/categories/"
         title = ""
         weight = 3
-      [[languages.en.menu.main]]
-        identifier = "documentation"
-        pre = ""
-        post = ""
-        name = "Docs"
-        url = "/categories/documentation/"
-        title = ""
-        weight = 4
+ #     [[languages.en.menu.main]]
+ #       identifier = "documentation"
+ #       pre = ""
+ #       post = ""
+ #       name = "Docs"
+ #       url = "/categories/documentation/"
+ #       title = ""
+ #       weight = 4
       [[languages.en.menu.main]]
         identifier = "about"
         pre = ""
@@ -76,23 +76,23 @@ enableEmoji = true
         url = "/about/"
         title = ""
         weight = 5
-      [[languages.en.menu.main]]
-        identifier = "github"
-        pre = "<i class='fab fa-github fa-fw'></i>"
-        post = ""
-        name = ""
-        url = "https://github.com/dillonzq/LoveIt"
-        title = "GitHub"
-        weight = 6
+ #     [[languages.en.menu.main]]
+ #       identifier = "github"
+ #       pre = "<i class='fab fa-github fa-fw'></i>"
+ #       post = ""
+ #       name = ""
+ #       url = "https://github.com/dillonzq/LoveIt"
+ #       title = "GitHub"
+ #       weight = 6
     [languages.en.params]
       # site description
-      description = "About LoveIt Theme"
+      description = "A blog dedicated to the joys of food"
       # site keywords
       keywords = ["Theme", "Hugo"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "LoveIt"
+        title = "The Food Ryter"
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
@@ -102,6 +102,15 @@ enableEmoji = true
         # Safari mask icon color
         iconColor = "#5bbad5"
         # Windows v8-10 tile color
+       # title name
+       # 标题名称
+       name = "The Food Ryter"
+       # you can add extra information before the name (HTML format is supported), such as icons
+       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
+       pre = "<i class='fad fa-soup fa-fw'></i>"
+       # you can add extra information after the name (HTML format is supported), such as icons
+       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
+       post = ""
         tileColor = "#da532c"
       # Search config
       [languages.en.params.search]
@@ -122,6 +131,15 @@ enableEmoji = true
         absoluteURL = false
         [languages.en.params.search.algolia]
           index = "index.en"
+       # title name
+       # 标题名称
+       name = "The Food Ryter"
+       # you can add extra information before the name (HTML format is supported), such as icons
+       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
+       pre = "<i class='fas fa-soup fa-fw'></i>"
+       # you can add extra information after the name (HTML format is supported), such as icons
+       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
+       post = ""
           appID = "PASDMWALPK"
           searchKey = "b42948e51daaa93df92381c8e2ac0f93"
       # Home page config
@@ -134,11 +152,11 @@ enableEmoji = true
           # Gravatar Email for preferred avatar in home page
           gravatarEmail = ""
           # URL of avatar shown in home page
-          avatarURL = "/images/avatar.png"
+          avatarURL = "https://ryterincsitesimages.s3.amazonaws.com/thedevopsreport/Face_pic.jpg"
           # title shown in home page
           title = ""
           # subtitle shown in home page
-          subtitle = "Welcome To My Blog"
+          subtitle = "We all eat, and it would be a sad waste of opportunity to eat badly ~ Anna Thomas"
           # whether to use typeit animation for subtitle
           typeit = true
           # whether to show social links
@@ -147,6 +165,15 @@ enableEmoji = true
           disclaimer = ""
         # Home page posts
         [languages.en.params.home.posts]
+       # title name
+       # 标题名称
+       name = "The Food Ryter"
+       # you can add extra information before the name (HTML format is supported), such as icons
+       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
+       pre = "<i class='fad fa-soup fa-fw'></i>"
+       # you can add extra information after the name (HTML format is supported), such as icons
+       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
+       post = ""
           enable = true
           # special amount of posts in each home posts page
           paginate = 6
@@ -219,373 +246,6 @@ enableEmoji = true
           id = "@xxxx"
           prefix = "https://mastodon.technology/"
 
-  [languages.zh-cn]
-    weight = 2
-    # 网站语言, 仅在这里 CN 大写
-    languageCode = "zh-CN"
-    # 语言名称
-    languageName = "简体中文"
-    # 是否包括中日韩文字
-    hasCJKLanguage = true
-    # 默认每页列表显示的文章数目
-    paginate = 12
-    # [UA-XXXXXXXX-X] 谷歌分析代号
-    googleAnalytics = ""
-    # 版权描述，仅仅用于 SEO
-    copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
-    # 菜单配置
-    [languages.zh-cn.menu]
-      [[languages.zh-cn.menu.main]]
-        identifier = "posts"
-        # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
-        pre = ""
-        # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
-        post = ""
-        name = "所有文章"
-        url = "/posts/"
-        title = ""
-        weight = 1
-      [[languages.zh-cn.menu.main]]
-        identifier = "tags"
-        pre = ""
-        post = ""
-        name = "标签"
-        url = "/tags/"
-        title = ""
-        weight = 2
-      [[languages.zh-cn.menu.main]]
-        identifier = "categories"
-        pre = ""
-        post = ""
-        name = "分类"
-        url = "/categories/"
-        title = ""
-        weight = 3
-      [[languages.zh-cn.menu.main]]
-        identifier = "documentation"
-        pre = ""
-        name = "文档"
-        url = "/categories/documentation/"
-        title = ""
-        weight = 4
-      [[languages.zh-cn.menu.main]]
-        identifier = "about"
-        pre = ""
-        post = ""
-        name = "关于"
-        url = "/about/"
-        title = ""
-        weight = 5
-      [[languages.zh-cn.menu.main]]
-        identifier = "github"
-        pre = "<i class='fab fa-github fa-fw'></i>"
-        post = ""
-        name = ""
-        url = "https://github.com/dillonzq/LoveIt"
-        title = "GitHub"
-        weight = 6
-    [languages.zh-cn.params]
-      description = "关于 LoveIt 主题"
-      keywords = ["Theme", "Hugo"]
-      [languages.zh-cn.params.app]
-        title = "LoveIt"
-        noFavicon = false
-        svgFavicon = ""
-        # Android 浏览器主题色
-        themeColor = "#ffffff"
-        # Safari 图标颜色
-        iconColor = "#5bbad5"
-        # Windows v8-10 磁贴颜色
-        tileColor = "#da532c"
-      [languages.zh-cn.params.search]
-        enable = true
-        type = "algolia"
-        contentLength = 4000
-        placeholder = ""
-        maxResultLength = 10
-        snippetLength = 50
-        highlightTag = "em"
-        absoluteURL = false
-        [languages.zh-cn.params.search.algolia]
-          index = "index.zh-cn"
-          appID = "PASDMWALPK"
-          searchKey = "b42948e51daaa93df92381c8e2ac0f93"
-      [languages.zh-cn.params.home]
-        rss = 10
-        [languages.zh-cn.params.home.profile]
-          enable = true
-          gravatarEmail = ""
-          avatarURL = "/images/avatar.png"
-          title = ""
-          subtitle = "一个简洁、优雅且高效的 Hugo 主题"
-          typeit = true
-          social = true
-          disclaimer = ""
-        [languages.zh-cn.params.home.posts]
-          enable = true
-          paginate = 6
-      [languages.zh-cn.params.social]
-        GitHub = "xxxx"
-        Linkedin = ""
-        Twitter = ""
-        Instagram = ""
-        Facebook = ""
-        Telegram = ""
-        Medium = ""
-        Gitlab = ""
-        Youtubelegacy = ""
-        Youtubecustom = ""
-        Youtubechannel = ""
-        Tumblr = ""
-        Quora = ""
-        Keybase = ""
-        Pinterest = ""
-        Reddit = ""
-        Codepen = ""
-        FreeCodeCamp = ""
-        Bitbucket = ""
-        Stackoverflow = ""
-        Weibo = "xxxx"
-        Odnoklassniki = ""
-        VK = ""
-        Flickr = ""
-        Xing = ""
-        Snapchat = ""
-        Soundcloud = ""
-        Spotify = ""
-        Bandcamp = ""
-        Paypal = ""
-        Fivehundredpx = ""
-        Mix = ""
-        Goodreads = ""
-        Lastfm = ""
-        Foursquare = ""
-        Hackernews = ""
-        Kickstarter = ""
-        Patreon = ""
-        Steam = "xxxx"
-        Twitch = ""
-        Strava = ""
-        Skype = ""
-        Whatsapp = ""
-        Zhihu = "xxxx"
-        Douban = "xxxx"
-        Angellist = ""
-        Slidershare = ""
-        Jsfiddle = ""
-        Deviantart = ""
-        Behance = ""
-        Dribbble = ""
-        Wordpress = ""
-        Vine = ""
-        Googlescholar = ""
-        Researchgate = ""
-        Mastodon = ""
-        Thingiverse = ""
-        Devto = "xxxx"
-        Gitea = ""
-        XMPP = ""
-        Matrix = ""
-        Bilibili = "xxxx"
-        Email = "xxxx@xxxx.com"
-        RSS = true
-
-  [languages.fr]
-    weight = 3
-    # language code
-    languageCode = "fr"
-    # language name
-    languageName = "Français"
-    # whether to include Chinese/Japanese/Korean
-    hasCJKLanguage = false
-    # default amount of posts in each pages
-    paginate = 12
-    # [UA-XXXXXXXX-X] google analytics code
-    googleAnalytics = ""
-    # copyright description used only for seo schema
-    copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
-    # Menu config
-    [languages.fr.menu]
-      [[languages.fr.menu.main]]
-        identifier = "posts"
-        pre = ""
-        post = ""
-        name = "Postes"
-        url = "/posts/"
-        title = ""
-        weight = 1
-      [[languages.fr.menu.main]]
-        identifier = "tags"
-        pre = ""
-        post = ""
-        name = "Balises"
-        url = "/tags/"
-        title = ""
-        weight = 2
-      [[languages.fr.menu.main]]
-        identifier = "categories"
-        pre = ""
-        post = ""
-        name = "Catégories"
-        url = "/categories/"
-        title = ""
-        weight = 3
-      [[languages.fr.menu.main]]
-        identifier = "documentation"
-        pre = ""
-        post = ""
-        name = "Docs"
-        url = "/categories/documentation/"
-        title = ""
-        weight = 4
-      [[languages.fr.menu.main]]
-        identifier = "about"
-        pre = ""
-        name = "À propos"
-        url = "/about/"
-        title = ""
-        weight = 5
-      [[languages.fr.menu.main]]
-        identifier = "github"
-        pre = "<i class='fab fa-github fa-fw'></i>"
-        post = ""
-        name = ""
-        url = "https://github.com/dillonzq/LoveIt"
-        title = "GitHub"
-        weight = 6
-    [languages.fr.params]
-      # site description
-      description = "À propos du thème LoveIt"
-      # site keywords
-      keywords = ["Thème", "Hugo"]
-      # App icon config
-      [languages.fr.params.app]
-        # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "LoveIt"
-        # whether to omit favicon resource links
-        noFavicon = false
-        # modern SVG favicon to use in place of older style .png and .ico files
-        svgFavicon = ""
-        # Android browser theme color
-        themeColor = "#ffffff"
-        # Safari mask icon color
-        iconColor = "#5bbad5"
-        # Windows v8-10 tile color
-        tileColor = "#da532c"
-      # Search config
-      [languages.fr.params.search]
-        enable = true
-        # type of search engine ("lunr", "algolia")
-        type = "algolia"
-        # max index length of the chunked content
-        contentLength = 4000
-        # placeholder of the search bar
-        placeholder = ""
-        # max number of results length
-        maxResultLength = 10
-        # snippet length of the result
-        snippetLength = 30
-        # HTML tag name of the highlight part in results
-        highlightTag = "em"
-        # whether to use the absolute URL based on the baseURL in search index
-        absoluteURL = false
-        [languages.fr.params.search.algolia]
-          index = "index.fr"
-          appID = "PASDMWALPK"
-          searchKey = "b42948e51daaa93df92381c8e2ac0f93"
-      # Home page config
-      [languages.fr.params.home]
-        # amount of RSS pages
-        rss = 10
-        # Home page profile
-        [languages.fr.params.home.profile]
-          enable = true
-          # Gravatar Email for preferred avatar in home page
-          gravatarEmail = ""
-          # URL of avatar shown in home page
-          avatarURL = "/images/avatar.png"
-          # title shown in home page
-          title = ""
-          # subtitle shown in home page
-          subtitle = "Un thème Hugo simple, élégant et efficace"
-          # whether to use typeit animation for subtitle
-          typeit = true
-          # whether to show social links
-          social = true
-          # disclaimer (HTML format is supported)
-          disclaimer = ""
-        # Home page posts
-        [languages.fr.params.home.posts]
-          enable = true
-          # special amount of posts in each home posts page
-          paginate = 6
-      # Social config in home page
-      [languages.fr.params.social]
-        GitHub = "xxxx"
-        Linkedin = "xxxx"
-        Twitter = "xxxx"
-        Instagram = ""
-        Facebook = ""
-        Telegram = ""
-        Medium = ""
-        Gitlab = ""
-        Youtubelegacy = ""
-        Youtubecustom = ""
-        Youtubechannel = ""
-        Tumblr = ""
-        Quora = ""
-        Keybase = ""
-        Pinterest = ""
-        Reddit = ""
-        Codepen = ""
-        FreeCodeCamp = ""
-        Bitbucket = ""
-        Stackoverflow = ""
-        Weibo = ""
-        Odnoklassniki = ""
-        VK = ""
-        Flickr = ""
-        Xing = ""
-        Snapchat = "xxxx"
-        Soundcloud = ""
-        Spotify = ""
-        Bandcamp = ""
-        Paypal = ""
-        Fivehundredpx = ""
-        Mix = ""
-        Goodreads = ""
-        Lastfm = ""
-        Foursquare = ""
-        Hackernews = "xxxx"
-        Kickstarter = ""
-        Patreon = ""
-        Steam = ""
-        Twitch = ""
-        Strava = ""
-        Skype = ""
-        Whatsapp = ""
-        Zhihu = ""
-        Douban = ""
-        Angellist = ""
-        Slidershare = ""
-        Jsfiddle = ""
-        Deviantart = ""
-        Behance = ""
-        Dribbble = "xxxx"
-        Wordpress = ""
-        Vine = ""
-        Googlescholar = ""
-        Researchgate = ""
-        Mastodon = ""
-        Thingiverse = ""
-        Devto = ""
-        Gitea = ""
-        XMPP = ""
-        Matrix = ""
-        Bilibili = ""
-        Email = "xxxx@xxxx.com"
-        RSS = true
-
 [params]
   # LoveIt theme version
   # LoveIt 主题版本
@@ -623,10 +283,10 @@ enableEmoji = true
       logo = ""
       # title name
       # 标题名称
-      name = "LoveIt"
+      name = "The Food Ryter"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
-      pre = "<i class='far fa-kiss-wink-heart fa-fw'></i>"
+      pre = "<i class='fas fa-utensils fa-fw'></i>" # fa-fw
       # you can add extra information after the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
       post = ""
@@ -646,10 +306,10 @@ enableEmoji = true
     hugo = true
     # whether to show copyright info
     # 是否显示版权信息
-    copyright = true
+    copyright = false
     # whether to show the author
     # 是否显示作者
-    author = true
+    author = false
     # site creation time
     # 网站创立年份
     since = 2019
@@ -759,31 +419,24 @@ enableEmoji = true
       # Mapbox GL JS 的 access token
       accessToken = "pk.eyJ1IjoiZGlsbG9uenEiLCJhIjoiY2s2czd2M2x3MDA0NjNmcGxmcjVrZmc2cyJ9.aSjv2BNuZUfARvxRYjSVZQ"
       # style for the light theme
-      # 浅色主题的地图样式
       lightStyle = "mapbox://styles/mapbox/light-v10?optimize=true"
       # style for the dark theme
-      # 深色主题的地图样式
       darkStyle = "mapbox://styles/mapbox/dark-v10?optimize=true"
       # whether to add NavigationControl (https://docs.mapbox.com/mapbox-gl-js/api/#navigationcontrol)
-      # 是否添加 NavigationControl (https://docs.mapbox.com/mapbox-gl-js/api/#navigationcontrol)
       navigation = true
       # whether to add GeolocateControl (https://docs.mapbox.com/mapbox-gl-js/api/#geolocatecontrol)
-      # 是否添加 GeolocateControl (https://docs.mapbox.com/mapbox-gl-js/api/#geolocatecontrol)
       geolocate = true
       # whether to add ScaleControl (https://docs.mapbox.com/mapbox-gl-js/api/#scalecontrol)
-      # 是否添加 ScaleControl (https://docs.mapbox.com/mapbox-gl-js/api/#scalecontrol)
       scale = true
       # whether to add FullscreenControl (https://docs.mapbox.com/mapbox-gl-js/api/#fullscreencontrol)
-      # 是否添加 FullscreenControl (https://docs.mapbox.com/mapbox-gl-js/api/#fullscreencontrol)
       fullscreen = true
     # Social share links in post page
-    # 文章页面的分享信息设置
     [params.page.share]
       enable = true
       Twitter = true
       Facebook = true
       Linkedin = false
-      Whatsapp = true
+      Whatsapp = false
       Pinterest = false
       Tumblr = false
       HackerNews = false
@@ -791,35 +444,31 @@ enableEmoji = true
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
       Pocket = false
       Digg = false
       Stumbleupon = false
       Flipboard = false
-      Weibo = true
+      Weibo = false
       Renren = false
-      Myspace = true
-      Blogger = true
+      Myspace = false
+      Blogger = false
       Baidu = false
       Odnoklassniki = false
-      Evernote = true
+      Evernote = false
       Skype = false
       Trello = false
       Mix = false
     # Comment config
-    # 评论系统设置
     [params.page.comment]
       enable = true
       # Disqus comment config (https://disqus.com/)
-      # Disqus 评论系统设置 (https://disqus.com/)
       [params.page.comment.disqus]
         enable = false
         # Disqus shortname to use Disqus in posts
-        # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
         shortname = ""
       # Gitalk comment config (https://github.com/gitalk/gitalk)
-      # Gitalk 评论系统设置 (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
         enable = false
         owner = ""
@@ -827,7 +476,6 @@ enableEmoji = true
         clientId = ""
         clientSecret = ""
       # Valine comment config (https://github.com/xCss/Valine)
-      # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
         enable = true
         appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
@@ -845,12 +493,9 @@ enableEmoji = true
         # emoji config file name, default is "google.yml"
         # ("apple.yml", "google.yml", "facebook.yml", "twitter.yml")
         # located in "assets/data/emoji/" directory, where you can put your config file
-        # emoji 配置文件名称, 默认是 "facebook.yml"
         # ("apple.yml", "google.yml", "facebook.yml", "twitter.yml")
-        # 位于 "assets/data/emoji/" 目录, 你可以在此存放你自己的配置文件
         emoji = ""
       # Facebook comment config (https://developers.facebook.com/docs/plugins/comments)
-      # Facebook 评论系统设置 (https://developers.facebook.com/docs/plugins/comments)
       [params.page.comment.facebook]
         enable = false
         width = "100%"
@@ -858,7 +503,6 @@ enableEmoji = true
         appId = ""
         languageCode = ""
       # Telegram comments config (https://comments.app/)
-      # Telegram comments 评论系统设置 (https://comments.app/)
       [params.page.comment.telegram]
         enable = false
         siteID = ""

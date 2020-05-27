@@ -1,12 +1,20 @@
-+++
-author = "Jayson Ryter" 
-categories = ["Cooking"]
-tags = ["tutorial"]
-date = "2019-07-05"
-description = "This is a test" 
-linktitle = "" 
-title = "Cooking 101" 
-type = "post"
-+++
+---
+weight: 1
+title: "10 Tips To Get You Started In The Kitchen"
+date: 2020-03-06T21:29:01+08:00
+draft: false
+author: "Jayson Ryter"
+description: "It might seem like you need a full kitchen to make great food, but I'll show you that's not the case."
+images: ["/images/10-tips-getting-started/shrimp-scampi.jpg"]
 
-# TEST
+tags: ["installation", "configuration"]
+categories: ["documentation"]
+featuredImage: "/images/10-tips-getting-started/shrimp-scampi.jpg"
+
+lightgallery: true
+
+toc:
+  auto: false
+---
+
+# 10 Tips To Get You Started In The Kitchen

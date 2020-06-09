@@ -1,10 +1,10 @@
 ---
 weight: 1
 title: "10 Tips To Get You Started In The Kitchen"
-date: 2020-03-06T21:29:01+08:00
+date: 2020-06-09T15:24:00+08:00
 draft: false
 author: "Jayson Ryter"
-description: "It might seem like you need a full kitchen to make great food, but I'll show you that's not the case."
+description: "These ten tips are lessons I've learned while spending my time in the kitchen"
 # images: ["/images/10-tips-getting-started/shrimp-scampi.jpg"]
 
 tags: ["tips", "basics"]
@@ -26,7 +26,7 @@ Cooking is a lost art these days. With the ability to buy just about anything pr
 Wow Jayson, you're really selling me on this whole cooking thing. 
 
 
-With that being said, if I still didn't scare you away, then I will say there is a brightside. If you are in the dating market, being able to cook scores you easy brownie points. I'm serious, throw together an awesome steak with some roasted potatoes and steamed vegetables and you are instantly winning the dating game. On a more serious note, being able to cook flexes your creativity and opens a whole new world of food that will greatly benefit your life. Being able to cook restaurant quality food at home will save you money, keep you healthier, and give you a sense of purpose in the kitchen. Your cooking utensils will be your sword and shield and your kitchen the battlefield in which you throw together ingredients like a mad scientists to come out with a creation you can be proud of at the end of the day. 
+With that being said, if I still didn't scare you away, then I will say there is a brightside. Being able to cook flexes your creativity and opens a whole new world of food that will greatly benefit your life. Cooking restaurant quality food at home will save you money, keep you healthier, and give you a sense of purpose in the kitchen. Your cooking utensils will be your sword and shield and your kitchen the battlefield in which you throw together ingredients like a mad scientists to come out with a creation you can be proud of at the end of the day. 
 
 ## Got it, give me the tips now please
 
@@ -38,7 +38,7 @@ You will fail. You will make things badly. You will throw your garbage food outs
 
 ### 2. Start off with easy recipes
 
-Seems like it's obvious right? Wrong. When I first started cooking I wanted to try things that frankly, were just too hard at the time. It's not that I couldn't produce a meal at the end, but there were a lot of steps, techniques that I were unfamiliar with, and many ingredients to work with. Some of my favorite recipes are the easiest ones. I suggest, everytime you cook, focus on a new technique or use a new ingredient that you are unfamiliar with. For instance, maybe you cook a normal dinner for yourself but you also include broiled sliced tomatoes if you've never used a broiler before. Or maybe sautee some onions and mushrooms for your burgers next time. These small steps and practice sessions will help you tackle bigger recipes that might use a combination of these techniques or ingredients. 
+Seems like it's obvious right? Wrong. When I first started cooking I wanted to try things that frankly, were just too hard at the time. It's not that I couldn't produce a meal at the end, but there were a lot of steps, techniques that I were unfamiliar with, and many ingredients to work with. Some of my favorite recipes are the easiest ones. I suggest everytime you cook, focus on a new technique or use a new ingredient that you are unfamiliar with. For instance, maybe you cook a normal dinner for yourself but you also include broiled sliced tomatoes if you've never used a broiler before. Or maybe sautee some onions and mushrooms for your burgers next time. These small steps and practice sessions will help you tackle bigger recipes that might use a combination of these techniques or ingredients. 
 
 ### 3. Taste your food
 
@@ -57,7 +57,7 @@ Pots and pans are whatever. Knives are essential. I used to work with a knife bl
 - Paring knife
 - Sharpening stone
 
-I realize the sharpening a stone isn't a knife, but if you are going to invest 100+ dollars in knives, get atleast a [basic whetstone](https://www.amazon.com/gp/product/B07D23QJH9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) to sharpen them. A honing rod is a must as well. You don't need to invest a lot of money, but having one is a must.
+I realize the sharpening a stone isn't a knife, but if you are going to invest 100+ dollars in knives, get atleast a [basic whetstone](https://www.amazon.com/gp/product/B07D23QJH9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) to sharpen them. Also get a honing rod. You don't need to invest a lot of money, but having one is a must.
 
 ### 6. Use good ingredients
 
@@ -73,7 +73,7 @@ Number one rookie mistake of most home cooks or chefs. They touch the food too m
 
 ### 9. Be clean, but don't be a Nazi about it
 
-I will admit, I am not the cleanest person in the kitchen. I tend to get food all over the stove and use more mixing bowls, pots, pans, and utensils than I care to admit. Find time in between things to put things in the sink to free up counter space. Wipe down the sauce you just got on the counter so you don't step in it. Slow down on your mixing if your contents are spilling over the edge. I find the easiest way to stay clean is to now be in a hurry. Make sure your ingredients are prepped before you start cooking and think about each stage of the process and what you will need. You don't need to go nuts, but being clean is an important part of the process and you need to instill good habits while you are just starting out. 
+I will admit, I am not the cleanest person in the kitchen. I tend to get food all over the stove and use more mixing bowls, pots, pans, and utensils than I care to admit. Find time in between things to put things in the sink to free up counter space. Wipe down the sauce you just spilled on the floor so you don't step in it. Slow down on your mixing if your contents are spilling over the edge. I find the easiest way to stay clean is to not be in a hurry. Make sure your ingredients are prepped before you start cooking and think about each stage of the process and what you will need. You don't need to go nuts, but being clean is an important part of the process and you need to instill good habits while you are just starting out. 
 
 ### 10. Cook for people and get feedback
 

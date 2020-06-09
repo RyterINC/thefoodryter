@@ -14,4 +14,4 @@ In my blog, I will be talking about all things food:
 - Flavor combinations
 - Book reccomendations
 
-Really as long as it involved with food and making food, I'll probably talk about it. I hope you enjoy the content and I'm always open to feedback. Feel free to reach out and let's make great food together!
+Really as long as it's involved with food and making food, I'll probably talk about it. I hope you enjoy the content and I'm always open to feedback. Feel free to reach out and let's make great food together!

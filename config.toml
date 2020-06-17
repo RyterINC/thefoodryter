@@ -179,22 +179,22 @@ enableEmoji = true
           paginate = 6
       # Social config in home page
       [languages.en.params.social]
-        GitHub = "xxxx"
+        GitHub = ""
         Linkedin = ""
         Twitter = "xxxx"
         Instagram = "xxxx"
         Facebook = "xxxx"
-        Telegram = "xxxx"
+        Telegram = ""
         Medium = ""
         Gitlab = ""
-        Youtubelegacy = "xxxx"
+        Youtubelegacy = ""
         Youtubecustom = ""
         Youtubechannel = ""
         Tumblr = ""
         Quora = ""
         Keybase = ""
         Pinterest = ""
-        Reddit = ""
+        Reddit = "xxxx"
         Codepen = ""
         FreeCodeCamp = ""
         Bitbucket = ""
@@ -242,9 +242,9 @@ enableEmoji = true
         Bilibili = ""
         Email = "xxxx@xxxx.com"
         RSS = true
-        [languages.en.params.social.Mastodon]
-          id = "@xxxx"
-          prefix = "https://mastodon.technology/"
+     #   [languages.en.params.social.Mastodon]
+     #     id = "@xxxx"
+     #     prefix = "https://mastodon.technology/"
 
 [params]
   # LoveIt theme version
@@ -747,3 +747,8 @@ enableEmoji = true
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
   taxonomyTerm = ["HTML"]
+
+[deployment]
+[[deployment.targets]]
+name = "Default"
+URL = "s3://thefoodryter.com"

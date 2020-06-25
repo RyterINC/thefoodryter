@@ -465,9 +465,9 @@ enableEmoji = true
       enable = true
       # Disqus comment config (https://disqus.com/)
       [params.page.comment.disqus]
-        enable = false
+        enable = true
         # Disqus shortname to use Disqus in posts
-        shortname = ""
+        shortname = "TheFoodRyter"
       # Gitalk comment config (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
         enable = false
@@ -477,7 +477,7 @@ enableEmoji = true
         clientSecret = ""
       # Valine comment config (https://github.com/xCss/Valine)
       [params.page.comment.valine]
-        enable = true
+        enable = false
         appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
         appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
         placeholder = ""

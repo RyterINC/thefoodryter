@@ -152,7 +152,7 @@ enableEmoji = true
           # Gravatar Email for preferred avatar in home page
           gravatarEmail = ""
           # URL of avatar shown in home page
-          avatarURL = "https://ryterincsitesimages.s3.amazonaws.com/thedevopsreport/Face_pic.jpg"
+          avatarURL = "images/avatar/avatar.jpg"
           # title shown in home page
           title = ""
           # subtitle shown in home page

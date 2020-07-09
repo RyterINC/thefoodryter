@@ -17,6 +17,8 @@ toc:
   auto: true
 ---
 
+<div style="text-align:center" ><img src="/images/posts/july-09/five-things.jpg" height="50%" width="50%"/></div>
+
 ## Things you don't know you need, until you need them
 
 Before you read this post, I don't want you to think that you can't be a great cook, or even cook a great meal with limited resources.

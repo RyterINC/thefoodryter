@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://thefoodryter.com"
 # [en, zh-cn, fr, pl, ...] determines default content language
 defaultContentLanguage = "en"
 # theme
@@ -437,10 +437,10 @@ enableEmoji = true
       Facebook = true
       Linkedin = false
       Whatsapp = false
-      Pinterest = false
+      Pinterest = true
       Tumblr = false
       HackerNews = false
-      Reddit = false
+      Reddit = true
       VK = false
       Buffer = false
       Xing = false
@@ -453,7 +453,7 @@ enableEmoji = true
       Weibo = false
       Renren = false
       Myspace = false
-      Blogger = false
+      Blogger = true
       Baidu = false
       Odnoklassniki = false
       Evernote = false

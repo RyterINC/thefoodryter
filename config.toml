@@ -467,7 +467,7 @@ enableEmoji = true
       [params.page.comment.disqus]
         enable = true
         # Disqus shortname to use Disqus in posts
-        shortname = "TheFoodRyter"
+        shortname = "www-thefoodryter-com"
       # Gitalk comment config (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
         enable = false

@@ -2,7 +2,7 @@
 weight: 1
 title: "Five Things Every Cook Needs"
 date: 2020-07-08T15:24:00+08:00
-draft: true
+draft: false
 author: "Jayson Ryter"
 description: "These game changers will make your cooking life much easier"
 # images: ["/images/10-tips-getting-started/shrimp-scampi.jpg"]

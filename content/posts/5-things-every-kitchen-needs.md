@@ -17,7 +17,7 @@ toc:
   auto: true
 ---
 
-<div style="text-align:center" ><img src="/images/posts/july-09/five-things.jpg" height="50%" width="50%"/></div>
+<div style="text-align:center" ><img src="/images/posts/july-09/five-things.jpg" height="75%" width="75%"/></div>
 
 ## Things you don't know you need, until you need them
 

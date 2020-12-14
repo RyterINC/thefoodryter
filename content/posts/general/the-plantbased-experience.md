@@ -42,7 +42,7 @@ humans evolve and as we start to create new foods and substitutes for animal pro
  where we can go to the store and find substitutes for milk, eggs, cheese, meats, honey, fish, and basically anything that could possibly come from an animal. In the three short months I've been plant based, I don't feel as though I've struggled to make any meal that I used to make. With these kind of options in our lives and our heightened intelligence, I think we have a 
 responsibility to our planet to take care of it by not destroying it with mass harvesting, or by eating something which is not necessary to eat. So why do we still rely so heavily on eating animals and animal products?
 
-Simply put, It's not easy to make the change. 
+**Simply put, It's not easy to make the change.**
 
 When me and my girlfriend started this journey three months ago, not only were we met with resistance from others, we also didn't know what to eat. So many of my usual recipes and meals 
 centralized around a meat protein like steak or chicken, and everything else complimented that. We had to do our fair share of research, test out different ingredients to see what was good 

@@ -75,4 +75,4 @@ toc:
 
 ### In Conclusion
 
-I've had so many variations of shepherd's pie that I learned everyone is different in what they like for this dish. I hope this recipe works for you, and if you have any questions reach out to me via facebook and I will do my best to assist. Enjoy!
+I've had so many variations of shepherd's pie that I learned everyone is different in what they like for this dish. I hope this recipe works for you, and if you have any questions or made any changes that you liked, let me know down below. Enjoy!

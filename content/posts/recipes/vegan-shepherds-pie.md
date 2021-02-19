@@ -50,11 +50,11 @@ toc:
 3. Preheat oven to 400 degrees
 4. In a Cast Iron Skillet, add Olive Oil, and turn stove to medium high heat
 5. Add onions, cook about 5 minutes
-7. Add Garlic, cook about 2-3 minutes or until fragrant
-8. Add beans, tomato paste, carrot, thyme, rosemary - Mix until heated through
-9. Add red wine - cook about 2 minutes
-10. Add vegetable stock, reduce to medium heat, let simmer until mince has reached desired thickness (shouldn't be to wet)
-11. Turn off heat, add frozen peas and mix into mince
+6. Add Garlic, cook about 2-3 minutes or until fragrant
+7. Add beans, tomato paste, carrot, thyme, rosemary - Mix until heated through
+8. Add red wine - cook about 2 minutes
+9. Add vegetable stock, reduce to medium heat, let simmer until mince has reached desired thickness (shouldn't be to wet)
+10. Turn off heat, add frozen peas and mix into mince
 
 >Taste the mince at this point and add any seasonings as needed
 
@@ -62,14 +62,14 @@ toc:
 
 >Potatoes should be done at this point (if this is too much too manage, you can always cook the potatoes first and keep them warm in the pot until they are needed)
 
-12. Turn off heat for potatoes, drain the water. 
-13. Add Butter, salt, pepper, cream cheese or sour cream, and chives to potatoes. Mash until they reach desired consistency. Everyone likes their potatoes different, I prefer mine to be rather smooth. 
+11. Turn off heat for potatoes, drain the water. 
+12. Add Butter, salt, pepper, cream cheese or sour cream, and chives to potatoes. Mash until they reach desired consistency. Everyone likes their potatoes different, I prefer mine to be rather smooth. 
 
 >Taste the potatoes as you mash so you can adjust ingredients to your liking
 
-14. Spread potatoes out over mince evenly, sprinkle parmessan on top
-15. Put skillet into the oven for about 15 or 20 min, or until potatoes have browned
-16. Consume until you have a food comma
+13. Spread potatoes out over mince evenly, sprinkle parmessan on top
+14. Put skillet into the oven for about 15 or 20 min, or until potatoes have browned
+15. Consume until you have a food comma
 
 <div style="text-align:center" ><img src="/images/posts/recipes/vegan-shepherds-pie/finished-slice-2.jpg" height="75%" width="75%"/></div>
 

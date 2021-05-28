@@ -17,9 +17,9 @@ toc:
 
 <div style="text-align:center" ><img src="/images/posts/recipes/vegan-shepherds-pie/finished-full.jpg" height="75%" width="75%"/></div>
 
-### Ingredients
+## Ingredients
 
-**Mashed Potatoes**
+### Mashed Potatoes
 - 6 - golden potatoes (quartered)
 - 1/2 cup - vegan butter
 - 1/2 cup - vegan sour cream or cream cheese (This is more of a preference regarding which one you use)
@@ -28,7 +28,7 @@ toc:
 
 >This will produce a pretty thick layer of mash. If you want less mash than what you see in the picture down below, feel free to use one less potato
 
-**Mince**
+### Mince
 - 2 - 15.5 ounce cans canellini beans
 - 1 - 6 ounce can of tomato paste
 - 1 tablespoon - red wine
@@ -43,7 +43,7 @@ toc:
 - 2 tbsp - Olive Oil
 - salt and pepper to taste
 
-### Steps
+## Steps
 
 1. In a pot with cold water, add potatoes and a tablespoon of salt. 
 2. Bring to boil, let cook for about 20 min or until tender enough for a mash. (should be able to pierce with fork)
@@ -73,6 +73,6 @@ toc:
 
 <div style="text-align:center" ><img src="/images/posts/recipes/vegan-shepherds-pie/finished-slice-2.jpg" height="75%" width="75%"/></div>
 
-### In Conclusion
+## In Conclusion
 
 I've had so many variations of shepherd's pie that I learned everyone is different in what they like for this dish. I hope this recipe works for you, and if you have any questions or made any changes that you liked, let me know down below. Enjoy!

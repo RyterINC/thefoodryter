@@ -1,13 +1,13 @@
 ---
 weight: 1
-title: "The Scrambled Eggs Secret Ingredient"
+title: "Tip 2: The Scrambled Eggs Secret Ingredient"
 date: 2020-08-03T15:24:00+08:00
 draft: false
 author: "Jayson Ryter"
 description: "A little touch of this extra ingredient elevates those boring eggs"
 
 tags: ["tips"]
-categories: ["tip of the week"]
+categories: ["tips"]
 
 lightgallery: true
 

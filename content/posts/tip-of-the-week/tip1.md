@@ -1,13 +1,13 @@
 ---
 weight: 1
-title: "Tip of the week number 1: Scrubbing your cast iron"
+title: "Tip 1: Scrubbing your cast iron"
 date: 2020-07-21T15:24:00+08:00
 draft: false
 author: "Jayson Ryter"
 description: "Save your money, use this trick to scrub your cast iron"
 
 tags: ["tips"]
-categories: ["tip of the week"]
+categories: ["tips"]
 
 lightgallery: true
 

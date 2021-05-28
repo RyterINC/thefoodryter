@@ -19,7 +19,7 @@ toc:
 
 Italian food is one of the things vegans don't get to experience as often since cheese and dairy are huge influencers. Rest easy knowing this dish will fulfill those desires and leave you with plenty of leftovers!
 
-## Ingredients / Preperations
+## Ingredients / Preparations
 
 ### Lasagna
 

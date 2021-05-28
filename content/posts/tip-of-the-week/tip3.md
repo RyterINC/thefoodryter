@@ -2,7 +2,7 @@
 weight: 1
 title: "Tip 3: Making your kale test better"
 date: 2020-05-28T15:24:00+08:00
-draft: true
+draft: false
 author: "Jayson Ryter"
 description: "Eating uncooked kale? Do this to make it flourish"
 

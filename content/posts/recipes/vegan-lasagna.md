@@ -36,17 +36,7 @@ Italian food is one of the things vegans don't get to experience as often since 
 
 ### Ricotta
 
->Making the ricotta is optional, but vegan ricotta tends to be expensive and this homemade blend was tasty and easy to do.
-
-- 10 oz. Almond slivers
-- 2-3 Tbsp Lemon juice
-- 1 Tsp Garlic Powder
-- 1 Tsp Onion Powder
-- 3/4 cup oat or soymilk 
-- Additional water until desired thickness achieved
-- Salt to taste
-
->Constantly taste the ricotta. It took several adjustments as I blended in order to get it the way I liked
+> If you decide to opt out of buying ricotta, check out my [ricotta recipe here](https://thefoodryter.com/vegan-ricotta/). 
 
 ## Steps
 
@@ -55,8 +45,7 @@ Italian food is one of the things vegans don't get to experience as often since 
 3. Once boiling, add 1 Tbsp of salt to the pot
 4. Add in about 5 lasagna noodles at a time to the pot, stirring frequently until al dente (Still firm when bitten ~9-11 minutes)
 5. If you are making the ricotta from the above recipe, add all the ingredients into a blender or food proccessor and blend until very whipped and smooth. There shouldn't be any almonds left intact. 
-6. For the spinach, add 1/4 cup of water to a sautee pan or skillet over medium heat, bring water to a boil, add in the spinach and cover. 
-7. Right before spinach has wilted completely or the frozen spinach has thawed, remove lid and cook for several more minutes over high heat stirring frequently (to cook out some water). Add salt and pepper to taste.
+6. For the spinach, add 1/4 cup of water to a sautee pan or skillet over medium heat, bring water to a boil, add in the spinach and cover until wilted. 
 
 ### Lasagna Assembly
 
